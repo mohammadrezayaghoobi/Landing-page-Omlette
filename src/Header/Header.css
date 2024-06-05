@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "YoungSerif";
+    src: url('../assets/font/YoungSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: "Outfit-Black";
+    src: url('../assets/font/Outfit-Black.ttf');
+}
+@font-face {
+    font-family: "Outfit-Medium";
+    src: url('../assets/font/Outfit-Medium.ttf');
+}
+@font-face {
+    font-family: "Outfit-Light";
+    src: url('../assets/font/Outfit-Light.ttf');
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Outfit-Medium";
+}
+
+.Omelette-header {
+    font-family: "YoungSerif";
+    font-size: 3rem;
+    margin-bottom: 35px;
+}
+.Omelette-p {
+    font-size: 2rem;
+    font-family: "Outfit-light";
+}

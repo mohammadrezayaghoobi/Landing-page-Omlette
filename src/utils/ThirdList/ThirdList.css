@@ -1,0 +1,23 @@
+
+.list3-back {
+    margin-bottom: 25px;
+}
+.list3-title {
+    font-size: 2.5rem;
+    color: #6d1633;
+    font-family: "YoungSerif";
+}
+.list3-ul {
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.list3-item {
+    padding-left: 20px;
+    padding: 15px 20px;
+    font-size: 1.5rem;
+}
+.list3-boldest {
+    font-weight: normal;
+    font-family: "Outfit-Black";
+    margin-right: 5px;
+}
